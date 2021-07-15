@@ -45,8 +45,8 @@ public class Lanterns {
 		}
 
 		System.out.println("   ");
-		String.format("%.10f\n", output1);
 		System.out.println(String.format("%.10f\n", output1));
+		System.out.println("   ");
 
 	}
 
